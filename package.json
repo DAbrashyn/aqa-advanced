@@ -1,0 +1,27 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "test",
+    "kw"
+  ],
+  "homepage": "https://github.com/DAbrashyn/aqa-advanced#readme",
+  "bugs": {
+    "url": "https://github.com/DAbrashyn/aqa-advanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAbrashyn/aqa-advanced.git"
+  },
+  "license": "MIT",
+  "author": "denys",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
