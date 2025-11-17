@@ -1,0 +1,7 @@
+"use strict";
+
+const length  = 30;
+const width   = 20;
+const areaOfRectangle = length * width;
+
+console.log(areaOfRectangle);
